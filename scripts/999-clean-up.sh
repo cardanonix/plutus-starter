@@ -1,0 +1,1 @@
+rm *.draft *.signed *.vhash *.json *.addr *.txt *.tx *.sign
